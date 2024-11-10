@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donnalyn</h1>
 <h3 align="center">Computer Science student 🌱</h3>
-<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/fb/40/a4/fb40a462e753faa2c525018802d99621.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donnalynnn&label=Profile%20views&color=0e75b6&style=flat" alt="donnalynnn" /> </p>
+<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/59/0d/f2/590df2aa3814d035caa9a7c62e49eb6a.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
