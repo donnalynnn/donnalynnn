@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Donnalyn</h1>
 <h3 align="center">Computer Science student 🌱💻 </h3>
-<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/59/0d/f2/590df2aa3814d035caa9a7c62e49eb6a.gif">
+<img align="right" alt="gif" height="600" src="https://i.pinimg.com/originals/59/0d/f2/590df2aa3814d035caa9a7c62e49eb6a.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
