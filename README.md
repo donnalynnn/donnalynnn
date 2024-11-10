@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/1fRHM0r/donnalynnn-GITHUB.png)
+![MasterHead](https://i.ibb.co/0s6RPHK/donnalynnn-GITHUB.png)
 
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
 <h3 align="left">Connect with me:</h3>
