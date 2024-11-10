@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/1fRHM0r/donnalynnn-GITHUB.png)]
+![MasterHead](https://i.ibb.co/1fRHM0r/donnalynnn-GITHUB.png)
 
 <h1 align="center">Hello, I'm Donnalyn</h1>
 <h3 align="center">Computer Science student 🌱💻 </h3>
