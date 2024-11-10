@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Donnalyn</h1>
-<h3 align="center">Computer Science student 🌱</h3>
+<h1 align="center">Hello, I'm Donnalyn</h1>
+<h3 align="center">Computer Science student 🌱:heart:</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/59/0d/f2/590df2aa3814d035caa9a7c62e49eb6a.gif">
 
 <h3 align="left">Connect with me:</h3>
@@ -14,5 +14,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/donnalynnnn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donnalynnnn" /></a></p><br><br>
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&locale=en&layout=compact" alt="donnalynnn" /></p>
