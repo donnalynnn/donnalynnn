@@ -16,4 +16,8 @@
 <p><a href="https://www.buymeacoffee.com/donnalynnn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donnalynnnn" /></a></p><br><br>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&locale=en&layout=compact" alt="donnalynnn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&locale=en&layout=compact" alt="donnalynnn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&locale=en" alt="donnalynnn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn&" alt="donnalynnn" /></p>
