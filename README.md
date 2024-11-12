@@ -18,13 +18,22 @@
     </a>
 </div>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/donnalynnn/donnalynnn/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center" style="display: flex; flex-direction: row; gap: 20px;">
+<div align="center">
+  <h2>📊 Stats</h2>
+
+  <!-- Horizontal divider using Markdown -->
+  <hr style="width:50%;border:1px solid #ccc;"/>
+
+  <!-- Flexbox-like effect for side-by-side images -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&theme=react&locale=en&layout=compact" alt="Most Used Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&theme=react&locale=en&layout=donut" alt="Most Used Languages" />
   </div>
-  <div align="center">
+
+  <br/>
+
+  <!-- Single image below -->
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
   </div>
-</details>
+</div>
