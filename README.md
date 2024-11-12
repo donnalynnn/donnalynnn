@@ -16,7 +16,8 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 70px;">
+<p>&nbsp;</p>
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=donnalynnn&label=Views&color=12&icon=9&pretty=true" />
 </div>
 
