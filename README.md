@@ -1,5 +1,4 @@
-![MasterHead](https://i.ibb.co/0s6RPHK/donnalynnn-GITHUB.png)
-<img align="right" alt="gif" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif)
 
 <p align="center">
   <a href="https://instagram.com/donnutellah">
