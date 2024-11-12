@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB4OWtsMjFvbDc1NmZqeG96a3BmMWMwbnlmeW1oOWtmZWZqcGExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r5BiH3Tm7nsNW2OEhh/200.gif)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJzb3owbWJjbjgwb2ZoNzNhN2l1MXNwMnBldGN1d3oyMHRyaGNiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r5BiH3Tm7nsNW2OEhh/100.webp)
 
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
 
