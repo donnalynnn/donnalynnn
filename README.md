@@ -1,6 +1,6 @@
 <!-- Master Head -->
 ![MasterHead](https://i.ibb.co/V3chh9j/donnalynnn-1600-x-350-px.png)
-</br>
+
 <div align="center">
   <a href="https://instagram.com/donnutellah">
     <img src="https://img.shields.io/badge/Instagram-%20-white?logo=instagram&logoColor=white&labelColor=789798&color=789798" alt="Instagram" />
@@ -17,7 +17,7 @@
 </div>
 
 
-
+</br></br>
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoa3BxYnA0MTkxZ3hyYnR6emo1ZzZ5dDYzaXE1NnFiYnlhNDBidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vXnjiMYtLuZzf6sagd/giphy.gif">
 
 <h3 align="left">💻Tech Stack</h3>
