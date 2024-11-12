@@ -18,7 +18,7 @@
     </a>
 </div>
 
-<details>
+
   <summary><h2> <img align="center" src="https://github.com/donnalynnn/donnalynnn/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
   <div>
@@ -31,5 +31,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
     </div>
   </div>
-</details>
+
 
