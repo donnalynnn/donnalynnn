@@ -34,10 +34,15 @@
 <details>
   <summary><h2> <img align="center" src="https://github.com/donnalynnn/donnalynnn/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=donnalynnn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=donnalynnn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=donnalynnn&theme=tokyo-night)
+  <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
+    </div>
   </div>
 </details>
 
