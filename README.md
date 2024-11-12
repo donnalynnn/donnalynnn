@@ -4,19 +4,9 @@
 
 
     
-![Instagram](https://img.shields.io/badge/Instagram-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)("https://instagram.com/donnutellah")
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)("https://linkedin.com/donnutellah")
-![StackOverflow](https://img.shields.io/badge/StackOverflow-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)("https://stackoverflow.com/users/24352433")
-
-
-
-  <a href="https://linkedin.com/in/donnalynnn">
-    <img height="27" src="https://i.ibb.co/FzY5tsD/2.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/24352433">
-    <img height="27" src="https://i.ibb.co/3dgZDCt/3.png" alt="Stack Overflow"/>
-  </a>
-
+![Instagram](https://img.shields.io/badge/Instagram-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)(https://instagram.com/donnutellah)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)(https://linkedin.com/donnutellah)
+![StackOverflow](https://img.shields.io/badge/StackOverflow-%20-white?logo=cat&logoColor=white&labelColor=789798&color=789798)(https://stackoverflow.com/users/24352433)
 
 
 <h3 align="left">💻Tech Stack</h3>
