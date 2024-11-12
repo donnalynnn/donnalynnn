@@ -16,8 +16,12 @@
   </a>
 </div>
 
-
-</br></br>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=donnalynnn&label=Profile%20Views&color=12&icon=9&pretty=true" />
+</div>
+</br>
+---
+</br>
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoa3BxYnA0MTkxZ3hyYnR6emo1ZzZ5dDYzaXE1NnFiYnlhNDBidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vXnjiMYtLuZzf6sagd/giphy.gif">
 
 <h3 align="left">💻Tech Stack</h3>
@@ -47,12 +51,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=donnalynnn&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=donnalynnn&icon=9&color=9)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating <3
+  ## You can help me by Donating <3
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/donnalynnn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DonnalynReroma) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/donnalynnn) 
 
