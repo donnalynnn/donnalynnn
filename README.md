@@ -13,7 +13,7 @@
 <h2 align="left">📊GitHub Stats </h2>
 
 <div align="center">
-  <hr style="width:50%;border:0.5px solid #ccc;"/>
+  <hr style="width:50%;border:0.1px solid #ccc;"/>
 
   <!-- Flexbox-like effect for side-by-side images -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
