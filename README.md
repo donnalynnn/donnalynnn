@@ -18,22 +18,21 @@
     </a>
 </div>
 
+<h3 align="left">Stats</h3>
 <div align="center">
-  <h2>📊 Stats</h2>
-
-  <!-- Horizontal divider using Markdown -->
-  <hr style="width:50%;border:1px solid #ccc;"/>
+  <hr style="width:50%;border:0.5px solid #ccc;"/>
 
   <!-- Flexbox-like effect for side-by-side images -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&theme=react&locale=en&layout=compact" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+    
   </div>
 
   <br/>
 
   <!-- Single image below -->
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn&theme=react" alt="GitHub Streak" />
   </div>
 </div>
