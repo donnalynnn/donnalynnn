@@ -4,13 +4,13 @@
 
 
   <a href="https://instagram.com/donnutellah">
-    <img src="https://i.ibb.co/KjMKWPv/1.png" alt="Instagram"/>
+    <img  height="20" src="https://i.ibb.co/KjMKWPv/1.png" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/donnalynnn">
-    <img src="https://i.ibb.co/FzY5tsD/2.png" alt="LinkedIn"/>
+    <img height="20" src="https://i.ibb.co/FzY5tsD/2.png" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/24352433">
-    <img src="https://i.ibb.co/3dgZDCt/3.png" alt="Stack Overflow"/>
+    <img height="20" src="https://i.ibb.co/3dgZDCt/3.png" alt="Stack Overflow"/>
   </a>
 
 
