@@ -16,8 +16,8 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://visitcount.itsvg.in/api?id=donnalynnn&label=Profile%20Views&color=12&icon=9&pretty=true" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://visitcount.itsvg.in/api?id=donnalynnn&label=Views&color=12&icon=9&pretty=true" />
 </div>
 
 ---
