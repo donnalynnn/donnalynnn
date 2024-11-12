@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
 
-<p align="center">
+
   <a href="https://instagram.com/donnutellah">
     <img src="https://i.ibb.co/KjMKWPv/1.png" alt="Instagram"/>
   </a>
@@ -12,7 +12,7 @@
   <a href="https://stackoverflow.com/users/24352433">
     <img src="https://i.ibb.co/3dgZDCt/3.png" alt="Stack Overflow"/>
   </a>
-</p>
+
 
 
 <h3 align="left">💻Tech Stack</h3>
