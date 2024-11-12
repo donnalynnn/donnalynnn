@@ -15,7 +15,7 @@
 
 <h3 align="left">📊GitHub Stats </h3>
 
-<div align="center">
+<div align="left">
   <hr style="width:50%;border:0.1px solid #ccc;"/>
 
   <!-- Flexbox-like effect for side-by-side images -->
