@@ -6,9 +6,9 @@
 °❀⋆.ೃ࿔:･ [![Instagram](https://img.shields.io/badge/Instagram-%20-white?logo=instagram&logoColor=white&labelColor=789798&color=789798)](https://instagram.com/donnutellah) ✿ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-white?logo=linkedin&logoColor=white&labelColor=789798&color=789798)](https://linkedin.com/in/donnutellah) ✿ [![StackOverflow](https://img.shields.io/badge/StackOverflow-%20-white?logo=stackoverflow&logoColor=white&labelColor=789798&color=789798)](https://stackoverflow.com/users/24352433) ✿ [![Discord](https://img.shields.io/badge/Discord-zafyra.-%23FFFFFF?logo=discord&logoColor=white&labelColor=789798&color=789798)](https://discord.com) ೃ࿔:･°❀⋆.
     
 </p>
-</br></p>
+</br>
 
-<img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
+<img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoa3BxYnA0MTkxZ3hyYnR6emo1ZzZ5dDYzaXE1NnFiYnlhNDBidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vXnjiMYtLuZzf6sagd/giphy.gif">
 
 <h3 align="left">💻Tech Stack</h3>
 
