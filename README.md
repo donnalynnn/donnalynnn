@@ -20,16 +20,11 @@
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/donnalynnn/donnalynnn/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-  <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&theme=react&locale=en&layout=compact" alt="Most Used Languages" />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
-    </div>
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
-    </div>
+  <div align="center" style="display: flex; flex-direction: row; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnalynnn&show_icons=true&theme=react&locale=en&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=donnalynnn&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
   </div>
-
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=donnalynnn" alt="GitHub Streak" />
+  </div>
 </details>
