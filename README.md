@@ -1,8 +1,17 @@
 ![MasterHead](https://i.ibb.co/0s6RPHK/donnalynnn-GITHUB.png)
 
-<div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/donnutellah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donnalynnn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24352433) 
-</div>
+<p align="center">
+  <a href="https://instagram.com/donnutellah">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/donnalynnn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/24352433">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</p>
+
 
 <img align="right" alt="gif" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwOGptMTB6NTR3eWtidXg4ZWV0cWg5NjM5bzUwNmZ4YTd4cHc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GtzQjfXMnEoRi1ml1Y/giphy.gif">
 
