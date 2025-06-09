@@ -18,7 +18,9 @@
 
 <p>&nbsp;</p>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=donnalynnn&label=Views&color=12&icon=9&pretty=true" />
+  <a href="https://discord.com](https://donnalynnn.github.io/donnalyn-portfolio/">
+  <img src="(https://img.shields.io/badge/VISIT%20MY%20WEBSITE%20%E2%99%A1-2e6e80)" alt="Website"/>
+  </a>
 </div>
 
 ---
