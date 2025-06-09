@@ -18,7 +18,7 @@
 
 <p>&nbsp;</p>
 <div align="center">
-  <a href="https://discord.com](https://donnalynnn.github.io/donnalyn-portfolio/">
+  <a href="https://donnalynnn.github.io/donnalyn-portfolio/">
   ![badge](https://img.shields.io/badge/✿ VISIT MY WEBSITE-398475.svg?style=plastic)
   </a>
 </div>
