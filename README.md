@@ -19,7 +19,7 @@
 <p>&nbsp;</p>
 <div align="center">
   <a href="https://donnalynnn.github.io/donnalyn-portfolio/">
-  ![badge](https://img.shields.io/badge/✿ VISIT MY WEBSITE-398475.svg?style=plastic)
+    <img src="https://img.shields.io/badge/✿ VISIT MY WEBSITE-398475.svg?style=plastic" alt="Visit My Website Badge" />
   </a>
 </div>
 
